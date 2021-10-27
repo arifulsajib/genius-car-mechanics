@@ -22,5 +22,5 @@ Users will able to:
 
 ### Links
 
-- Live Site: [genius](https://medisure-healthcare.web.app/)
+- Live Site: [genius](https://genius-car-mechanic-47cfd.web.app/)
 - Code: [Github](https://github.com/arifulsajib/genius-car-mechanics)
